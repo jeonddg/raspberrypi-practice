@@ -13,7 +13,7 @@
 
 ---
 
-## Hardware
+## Hardware.
 
 - Raspberry Pi 5
 - Breadboard
