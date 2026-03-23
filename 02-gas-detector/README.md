@@ -72,7 +72,7 @@ try:
             print("Gas Detected")
             bz.on()
         else:
-            print("Normal")
+            print("No gas Detected")
             bz.off()
 
         time.sleep(0.2)

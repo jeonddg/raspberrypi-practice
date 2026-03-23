@@ -9,10 +9,10 @@ try:
     while True:
         # MQ-2 센서는 가스 감지 시 LOW(0), 평상시 HIGH(1) 출력
         if gas.value == 0:                # LOW → 가스 감지됨
-            print("가스 감지됨")
+            print("Gas Detected")
             bz.on()                       # 부저 울림 (경고)
         else:                             # HIGH → 정상 상태
-            print("정상")
+            print("No gas Detected")
             bz.off()                      # 부저 정지
 
         time.sleep(0.2)                   # 센서 상태를 0.2초마다 반복 체크
