@@ -6,9 +6,9 @@
 
 ---
 
-## Demo Video
+## Video
 
-👉 (여기에 유튜브 링크 넣기)
+https://www.youtube.com/watch?v=mtqzYjezqSE
 
 ---
 
