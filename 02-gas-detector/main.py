@@ -20,4 +20,4 @@ try:
 except KeyboardInterrupt:
     pass                                  # Ctrl+C로 종료 시 예외 처리
 
-bz.off()                                  # 프로그램 종료 시 부저 OFF (안전 처리)
+bz.off()                                  # 프로그램 종료 시 부저 OFF (안전 처리).
