@@ -28,12 +28,8 @@
 |----|--------|------------|
 | 00 | GPIO LED Beacon | LED 3개를 이용한 경광등 제어 |
 | 01 | GPIO Traffic Light | 자동차 및 보행자 신호 제어 |
-<<<<<<< HEAD
 | 02 | GPIO Gas Detector | MQ-2 센서 기반 가스/연기 감지 시스템 |
 | 03 | PIR Camera Detection | PIR 센서 기반 침입자 감지 및 사진 촬영 시스템 |
-=======
-| 02 | GPIO Gas Detector | MQ-2 센서 기반 가스/연기 감지 시스템 |
->>>>>>> 15ce4411258ddcf0c42a2c58a398cd1063d5b697
 
 > 지속적으로 실습 프로젝트 추가 예정
 
@@ -53,7 +49,6 @@ raspberrypi-practice
 │   ├─ main_v2.py
 │   └─ README.md
 │
-<<<<<<< HEAD
 ├─ 02-gas-detector
 │   ├─ main.py
 │   └─ README.md
@@ -62,12 +57,6 @@ raspberrypi-practice
 │   ├─ main.py
 │   └─ README.md
 │
-=======
-├─ 02-gas-detector
-│   ├─ main.py
-│   └─ README.md
-│
->>>>>>> 15ce4411258ddcf0c42a2c58a398cd1063d5b697
 └─ README.md
 ```
 
@@ -76,13 +65,8 @@ raspberrypi-practice
 ## Key Learning
 
 - GPIO 입력/출력 제어
-<<<<<<< HEAD
 - 상태 기반 제어 (State Machine)
 - 센서 기반 이벤트 처리
-=======
-- 상태 기반 제어(State Machine)
-- 센서 기반 이벤트 처리
->>>>>>> 15ce4411258ddcf0c42a2c58a398cd1063d5b697
 - 하드웨어와 소프트웨어 연동 구조 이해
 
 ---
