@@ -30,6 +30,7 @@
 | 01 | GPIO Traffic Light | 자동차 및 보행자 신호 제어 |
 | 02 | GPIO Gas Detector | MQ-2 센서 기반 가스/연기 감지 시스템 |
 | 03 | PIR Camera Detection | PIR 센서 기반 침입자 감지 및 사진 촬영 시스템 |
+| 04 | Flask LED Control | Flask 웹 서버를 이용한 LED 원격 제어 시스템 |
 
 > 지속적으로 실습 프로젝트 추가 예정
 
@@ -57,6 +58,12 @@ raspberrypi-practice
 │   ├─ main.py
 │   └─ README.md
 │
+├─ 04-flask-led-control
+│   ├─ main.py
+│   ├─ templates
+│   │   └─ index.html
+│   └─ README.md
+│
 └─ README.md
 ```
 
@@ -67,6 +74,7 @@ raspberrypi-practice
 - GPIO 입력/출력 제어
 - 상태 기반 제어 (State Machine)
 - 센서 기반 이벤트 처리
+- 웹 기반 제어 시스템 (Flask)
 - 하드웨어와 소프트웨어 연동 구조 이해
 
 ---
