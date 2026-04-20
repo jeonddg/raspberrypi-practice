@@ -8,7 +8,7 @@
 
 ## Video
 
-👉 여기에 유튜브 링크 넣기
+https://www.youtube.com/watch?v=I-SPaU4XA4c
 
 ---
 
