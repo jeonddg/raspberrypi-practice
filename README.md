@@ -34,6 +34,7 @@
 | 03 | PIR Camera Detection | PIR 센서 기반 침입자 감지 및 사진 촬영 시스템 |
 | 04 | Flask LED Control | Flask 웹 서버를 이용한 LED 원격 제어 시스템 |
 | 05 | Weather GUI API | OpenWeatherMap API 기반 온습도 GUI 표시 시스템 |
+| 06 | Weather Telegram Bot | OpenWeatherMap API와 텔레그램 봇 기반 일기예보 자동 알림 시스템 |
 
 > 지속적으로 실습 프로젝트 추가 예정
 
@@ -71,6 +72,10 @@ raspberrypi-practice
 │   ├─ main.py
 │   └─ README.md
 │
+├─ 06-weather-telegram-bot
+│   ├─ main.py
+│   └─ README.md
+│
 └─ README.md
 ```
 
@@ -86,6 +91,8 @@ raspberrypi-practice
 - JSON 데이터 파싱 및 활용
 - GUI 프로그램 설계 (Tkinter)
 - 하드웨어와 소프트웨어 연동 구조 이해
+- 텔레그램 봇 기반 자동 알림 시스템 구현
+- 비동기 처리(asyncio) 기반 메시지 전송 구조 이해
 
 ---
 
