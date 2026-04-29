@@ -10,7 +10,7 @@ API 요청을 통해 JSON 형식의 날씨 데이터를 받아오고,
 
 ## Video
 
- 여기에 유튜브 링크 넣기
+https://www.youtube.com/watch?v=eMeI-fFabfY
 
 ---
 
