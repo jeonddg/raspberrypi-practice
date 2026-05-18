@@ -37,6 +37,7 @@
 | 05 | Weather GUI API | OpenWeatherMap API 기반 온습도 GUI 표시 시스템 |
 | 06 | Weather Telegram Bot | OpenWeatherMap API와 텔레그램 봇 기반 일기예보 자동 알림 시스템 |
 | 07 | MQTT LED Control | MQTT 기반 양방향 LED 제어 시스템 |
+| 08 | Voice Weather Assistant | 음성 인식 기반 날씨 안내 AI 시스템 |
 
 > 지속적으로 실습 프로젝트 추가 예정
 
@@ -82,6 +83,10 @@ raspberrypi-practice
 │   ├─ main.py
 │   └─ README.md
 │
+├─ 08-voice-weather-assistant
+│   ├─ main.py
+│   └─ README.md
+│
 └─ README.md
 ```
 
@@ -102,6 +107,10 @@ raspberrypi-practice
 - Mosquitto 브로커 기반 메시지 송수신
 - Threading 기반 동시 처리 구조 이해
 - 하드웨어와 소프트웨어 연동 구조 이해
+- Google Speech Recognition 기반 음성 인식(STT)
+- Text To Speech(TTS) 기반 음성 출력
+- 음성 기반 AIoT 시스템 구현
+- OpenWeatherMap API 연동 및 JSON 데이터 처리
 
 ---
 
