@@ -29,17 +29,17 @@
 ## Projects
 
 | No | Project | Description |
-|----|--------|------------|
-| 00 | GPIO LED Beacon | LED 3개를 이용한 경광등 제어 |
-| 01 | GPIO Traffic Light | 자동차 및 보행자 신호 제어 |
-| 02 | GPIO Gas Detector | MQ-2 센서 기반 가스/연기 감지 시스템 |
-| 03 | PIR Camera Detection | PIR 센서 기반 침입자 감지 및 사진 촬영 시스템 |
-| 04 | Flask LED Control | Flask 웹 서버를 이용한 LED 원격 제어 시스템 |
-| 05 | Weather GUI API | OpenWeatherMap API 기반 온습도 GUI 표시 시스템 |
-| 06 | Weather Telegram Bot | OpenWeatherMap API와 텔레그램 봇 기반 일기예보 자동 알림 시스템 |
-| 07 | MQTT LED Control | MQTT 기반 양방향 LED 제어 시스템 |
-| 08 | Voice Weather Assistant | 음성 인식 기반 날씨 안내 AI 시스템 |
-| 09 | OpenCV Drowsiness Alert | OpenCV 기반 얼굴/눈 탐지 졸음방지 시스템 |
+|----|---------|-------------|
+| 00 | [GPIO LED Beacon](https://github.com/jeonddg/raspberrypi-practice/tree/main/00-gpio-led-beacon) | LED 3개를 이용한 경광등 제어 |
+| 01 | [GPIO Traffic Light](https://github.com/jeonddg/raspberrypi-practice/tree/main/01-gpio-traffic-light) | 자동차 및 보행자 신호 제어 |
+| 02 | [GPIO Gas Detector](https://github.com/jeonddg/raspberrypi-practice/tree/main/02-gas-detector) | MQ-2 센서 기반 가스/연기 감지 시스템 |
+| 03 | [PIR Camera Detection](https://github.com/jeonddg/raspberrypi-practice/tree/main/03-pir-camera-detection) | PIR 센서 기반 침입자 감지 및 사진 촬영 시스템 |
+| 04 | [Flask LED Control](https://github.com/jeonddg/raspberrypi-practice/tree/main/04-flask-led-control) | Flask 웹 서버를 이용한 LED 원격 제어 시스템 |
+| 05 | [Weather GUI API](https://github.com/jeonddg/raspberrypi-practice/tree/main/05-weather-gui-api) | OpenWeatherMap API 기반 온습도 GUI 표시 시스템 |
+| 06 | [Weather Telegram Bot](https://github.com/jeonddg/raspberrypi-practice/tree/main/06-weather-telegram-bot) | OpenWeatherMap API와 텔레그램 봇 기반 일기예보 자동 알림 시스템 |
+| 07 | [MQTT LED Control](https://github.com/jeonddg/raspberrypi-practice/tree/main/07-mqtt-led-control) | MQTT 기반 양방향 LED 제어 시스템 |
+| 08 | [Voice Weather Assistant](https://github.com/jeonddg/raspberrypi-practice/tree/main/08-voice-weather-assistant) | 음성 인식 기반 날씨 안내 AI 시스템 |
+| 09 | [OpenCV Drowsiness Alert](https://github.com/jeonddg/raspberrypi-practice/tree/main/09-opencv-drowsiness-alert) | OpenCV 기반 얼굴/눈 탐지 졸음방지 시스템 |
 
 > 지속적으로 실습 프로젝트 추가 예정
 
